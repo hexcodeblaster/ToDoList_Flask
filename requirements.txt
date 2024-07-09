@@ -1,4 +1,9 @@
-Flask
+Flask~=3.0.3
 Flask-SQLAlchemy
 Flask-Migrate
-Psycopg2
+Flask-CORS
+psycopg2-binary
+python-dotenv~=1.0.1
+pydantic
+pydantic[email]
+SQLAlchemy~=2.0.31
